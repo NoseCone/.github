@@ -6,7 +6,9 @@ The image is a screen grab from a [video](https://www.youtube.com/watch?v=P49uuE
 
 I've reproduced a few pages from the flare timing front end (the nose cone 😉 ) as:
 
-* [dive-stick](http://divestick.flaretiming.com).flaretiming.com with [rescript-react](https://rescript-lang.org/)
-* [variable-geometry](http://svelte.flaretiming.com).flaretiming.com with [svelte](https://svelte.dev/)
-* [aspect-ratio](http://sutil.flaretiming.com).flaretiming.com with [sutil](https://sutil.dev/)
-* [leading-edge](http://feliz.flaretiming.com).flaretiming.com with [feliz](https://zaid-ajaj.github.io/Feliz/)
+|Source|Demo|Tech|
+|-|-|-|
+| [dive-stick](https://github.com/NoseCone/divestick) | [demo](http://rescript.flaretiming.com) | [rescript-react](https://rescript-lang.org/) |
+| [variable-geometry](https://github.com/NoseCone/variable-geometry) | [demo](http://svelte.flaretiming.com) | [svelte](https://svelte.dev/) |
+| [aspect-ratio](https://github.com/NoseCone/aspect-ration) | [demo](http://sutil.flaretiming.com) | [sutil](https://sutil.dev/) |
+| [leading-edge](https://github.com/NoseCone/leading-edge) | [demo](http://feliz.flaretiming.com) | [feliz](https://zaid-ajaj.github.io/Feliz/) |
