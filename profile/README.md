@@ -8,7 +8,7 @@ As a non-trivial way to try out tech I'm interested in I've reproduced a few pag
 
 | Source | Demo | Tech |
 | :-: | -:| :-: |
-| [dive-stick](https://github.com/NoseCone/divestick) | [rescript.flaretiming.com](http://rescript.flaretiming.com) | [rescript](https://rescript-lang.org/) |
+| [dive-stick](https://github.com/NoseCone/dive-stick) | [rescript.flaretiming.com](http://rescript.flaretiming.com) | [rescript](https://rescript-lang.org/) |
 | [variable-geometry](https://github.com/NoseCone/variable-geometry) | [svelte.flaretiming.com](http://svelte.flaretiming.com) | [svelte](https://svelte.dev/) |
-| [aspect-ratio](https://github.com/NoseCone/aspect-ration) | [sutil.flaretiming.com](http://sutil.flaretiming.com) | [sutil](https://sutil.dev/) |
+| [aspect-ratio](https://github.com/NoseCone/aspect-ratio) | [sutil.flaretiming.com](http://sutil.flaretiming.com) | [sutil](https://sutil.dev/) |
 | [leading-edge](https://github.com/NoseCone/leading-edge) | [feliz.flaretiming.com](http://feliz.flaretiming.com) | [feliz](https://zaid-ajaj.github.io/Feliz/) |
