@@ -8,6 +8,7 @@ As a non-trivial way to try out tech I'm interested in I've reproduced a few pag
 
 | Source | Demo | Tech |
 | :-: | -:| :-: |
+| [nose-cone](https://github.com/NoseCone/nose-cone) | [www.flaretiming.com](http://www.flaretiming.com) | [Reflex FRP](https://reflex-frp.org/) |
 | [dive-stick](https://github.com/NoseCone/dive-stick) | [rescript.flaretiming.com](http://rescript.flaretiming.com) | [rescript](https://rescript-lang.org/) |
 | [variable-geometry](https://github.com/NoseCone/variable-geometry) | [svelte.flaretiming.com](http://svelte.flaretiming.com) | [svelte](https://svelte.dev/) |
 | [aspect-ratio](https://github.com/NoseCone/aspect-ratio) | [sutil.flaretiming.com](http://sutil.flaretiming.com) | [sutil](https://sutil.dev/) |
