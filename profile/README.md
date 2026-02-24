@@ -6,10 +6,12 @@ The image is a screen grab from a [video](https://www.youtube.com/watch?v=P49uuE
 
 As a non-trivial way to try out tech I'm interested in I've reproduced a few pages from the flare timing front end (the nose cone 😉 ) as:
 
-| Source | Product (`www.*`) or Demo | Tech |
+| Source | Product or Demo | Tech |
 | :-: | -:| :- |
-| [nose-cone](https://github.com/NoseCone/nose-cone) | [www.flaretiming.com](http://www.flaretiming.com) | [Reflex](https://reflex-frp.org/) |
+| [nose-cone](https://github.com/NoseCone/nose-cone)[^1] | [www.flaretiming.com](http://www.flaretiming.com) | [Reflex](https://reflex-frp.org/) |
 | [dive-stick](https://github.com/NoseCone/dive-stick) | [rescript.flaretiming.com](http://rescript.flaretiming.com) | [ReScript](https://rescript-lang.org/) |
 | [variable-geometry](https://github.com/NoseCone/variable-geometry) | [svelte.flaretiming.com](http://svelte.flaretiming.com) | [Svelte](https://svelte.dev/) |
 | [aspect-ratio](https://github.com/NoseCone/aspect-ratio) | [sutil.flaretiming.com](http://sutil.flaretiming.com) | [Sutil](https://sutil.dev/) |
 | [leading-edge](https://github.com/NoseCone/leading-edge) | [feliz.flaretiming.com](http://feliz.flaretiming.com) | [Feliz](https://zaid-ajaj.github.io/Feliz/) |
+
+[^1]: The product version, nose-cone, has many more features than the demo versions.
