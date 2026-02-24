@@ -6,7 +6,7 @@ The image is a screen grab from a [video](https://www.youtube.com/watch?v=P49uuE
 
 As a non-trivial way to try out tech I'm interested in I've reproduced a few pages from the flare timing front end (the nose cone 😉 ) as:
 
-| Source | Demo | Tech |
+| Source | Product (`www.*`) or Demo | Tech |
 | :-: | -:| :- |
 | [nose-cone](https://github.com/NoseCone/nose-cone) | [www.flaretiming.com](http://www.flaretiming.com) | [Reflex](https://reflex-frp.org/) |
 | [dive-stick](https://github.com/NoseCone/dive-stick) | [rescript.flaretiming.com](http://rescript.flaretiming.com) | [ReScript](https://rescript-lang.org/) |
