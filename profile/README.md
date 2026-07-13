@@ -20,3 +20,8 @@ a few pages from the flare timing frontend, the nose cone 😉.
 
 [^1]: The is the product version and has many more features than the demo versions.
 [^2]: This is a multiple page served site.
+
+
+### Snapshot
+Here is what one of the competitions looks like when rendered.
+<img width="1722" height="1060" alt="image" src="https://github.com/user-attachments/assets/b813d338-e9ef-46fb-99bf-06fd63490049" />
