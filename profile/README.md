@@ -4,7 +4,8 @@ The image is a screen grab from a [video](https://www.youtube.com/watch?v=P49uuE
 
 ## Frontends for Flare Timing
 
-As a non-trivial way to try out tech I'm interested in I've reproduced a few pages from the flare timing front end (the nose cone 😉 ) as:
+As a non-trivial way to try out front-end tech I'm interested in I've reproduced
+a few pages from the flare timing frontend (the nose cone 😉 ).
 
 | Source | Product or Demo | Tech |
 | :-: | -:| :- |
@@ -14,5 +15,8 @@ As a non-trivial way to try out tech I'm interested in I've reproduced a few pag
 | [variable-geometry](https://github.com/NoseCone/variable-geometry) | [svelte.flaretiming.com](http://svelte.flaretiming.com) | [Svelte](https://svelte.dev/) |
 | [aspect-ratio](https://github.com/NoseCone/aspect-ratio) | [sutil.flaretiming.com](http://sutil.flaretiming.com) | [Sutil](https://sutil.dev/) |
 | [leading-edge](https://github.com/NoseCone/leading-edge) | [feliz.flaretiming.com](http://feliz.flaretiming.com) | [Feliz](https://zaid-ajaj.github.io/Feliz/) |
+| [shear-web](https://github.com/NoseCone/shear-web)[^2] | | [Ur/Web](http://www.impredicative.com/ur/) |
 
-[^1]: The product version, nose-cone, has many more features than the demo versions.
+
+[^1]: The is the product version and has many more features than the demo versions.
+[^2]: This is a multiple page served site.
