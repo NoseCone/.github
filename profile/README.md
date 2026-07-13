@@ -5,7 +5,7 @@ The image is a screen grab from a [video](https://www.youtube.com/watch?v=P49uuE
 ## Frontends for Flare Timing
 
 As a non-trivial way to try out front-end tech I'm interested in I've reproduced
-a few pages from the flare timing frontend (the nose cone 😉 ).
+a few pages from the flare timing frontend, the nose cone 😉.
 
 | Source | Product or Demo | Tech |
 | :-: | -:| :- |
